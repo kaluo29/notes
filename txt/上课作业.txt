@@ -1,0 +1,5 @@
+1.PHP设置COOKIES
+2. 根据cookies显示不同的用户名
+3. a.PHP用来登录,登录之后根据用户名设置COOKIES，登录之后访问b.PHP然后b.PHP读取cookies并显示用户名
+4.b.PHP设置一个推出按钮，然后用来清空cookies
+5.没登陆的时候访问b.PHP显示未登录

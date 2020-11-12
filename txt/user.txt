@@ -1,0 +1,4 @@
+admin
+gxxd	
+username
+root
