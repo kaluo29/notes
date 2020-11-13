@@ -485,3 +485,7 @@ cat  文件路径: 	直接打开一个文文件；cat还能对文件进行合并
 	* manual 包含了linux中全部的命令手册，英文
 
 	* man + 指令
+	
+17. poweroff命令
+	* poweroff就是关机命令
+	* 与shutdown不同的是它是直接关机，shutdown是可以延时关机
