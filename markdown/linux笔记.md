@@ -470,7 +470,7 @@ cat  文件路径: 	直接打开一个文文件；cat还能对文件进行合并
 
         * 查看网络连接状态
 
- 	* netstat   -tnlp
+        * netstat   -tnlp
 
         * -t  表示只列出TCP协议的连接
 
